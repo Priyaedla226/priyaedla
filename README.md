@@ -22,11 +22,10 @@ _Android project with Delta Airlines team_
 - Collaborated in a production-grade enterprise environment
 - Used Nodejs, CI/CD pipelines, API Development and clod based deployments.
 
-  🔹 **worked on Ecommerce app for a starup(Bikry) company with Mike sierra.as a Fresher.
+🔹 **worked on Ecommerce app for a starup(Bikry) company with Mike Sierra as a Fresher.
 
 🔹 **Fixziy – My Startup (Ongoing)** 
-- Home services app for the U.S., inspired by Urban Company 
-- Built using **Bubble** and **Glide** 
+- Home services app for the U.S., inspired by Urban Company  
 - Focused on UX, workflows, and marketplace structure
 
 
