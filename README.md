@@ -1,57 +1,63 @@
 # 👋 Hi, I'm Priyadarshini Edla
 
-Java Full Stack Developer | Open to Full-Time Roles | Based in USA
+**Java Full Stack Developer** | Open to Full-Time Roles | Based in USA 🇺🇸
 
 ---
 
-### 💼 About Me
+## 💼 About Me
 
 - 4+ years of experience in full stack development  
-- Worked with Delta Airlines, Glorium Technologies, and Mike Sierra  
-- Skilled in Java, Spring Boot, React.js, REST APIs, AWS, Azure, Docker, and CI/CD
-
-### 💻 Projects
-
-🔹 **Glorium Technologies – Full Stack Projects** 
-- Built Health care web app at Glorium Technologies.
-- Used React,Spring Boot,REST APIs.
-  
-🔹 **FlyDelta + Google Wallet Integration** with Delta Airlines 
-_Android project with Delta Airlines team_ 
-- Enabled boarding pass integration for Google Wallet 
-- Collaborated in a production-grade enterprise environment
-- Used Nodejs, CI/CD pipelines, API Development and clod based deployments.
-
-🔹 **worked on Ecommerce app for a starup(Bikry) company with Mike Sierra as a Fresher.
-
-🔹 **Fixziy – My Startup (Ongoing)** 
-- Home services app for the U.S., inspired by Urban Company  
-- Focused on UX, workflows, and marketplace structure
-
+- Worked with **Delta Airlines**, **Glorium Technologies**, and **Mike Sierra**  
+- Skilled in Java, Spring Boot, React.js, REST APIs, AWS, Azure, Docker, and CI/CD  
+- Passionate about clean code, scalable architectures, and intuitive user experiences
 
 ---
 
-### 🛠 Tech Skills
+## 💻 Projects
+
+### 🔹 Glorium Technologies – Health Care Web App
+- Developed a full-stack health care web application  
+- Technologies: React.js, Spring Boot, REST APIs  
+
+### 🔹 Delta Airlines – FlyDelta + Google Wallet Integration
+- Integrated Google Wallet with FlyDelta app for Android  
+- Enabled seamless boarding pass functionality  
+- Tech: Node.js, CI/CD pipelines, API development, cloud-based deployments  
+
+### 🔹 Mike Sierra – E-Commerce App (Bikry)
+- Contributed to an e-commerce startup as a fresher  
+- Worked on backend and frontend flows for user interactions  
+
+### 🔹 Fixziy – My Startup (In Progress)
+- Building an on-demand **home services platform** for the U.S.  
+- Inspired by Urban Company, with focus on UX, service provider workflows, and marketplace efficiency  
+
+---
+
+## 🛠 Tech Skills
 
 **Languages:** Java, JavaScript, SQL  
 **Frontend:** React.js, HTML, CSS, Bootstrap  
 **Backend:** Spring Boot, Node.js, Hibernate  
-**Cloud:** AWS, Azure  
-**Tools:** Git, GitHub, Jenkins, Postman, JMeter, Docker
+**Cloud:** AWS, Azure, GCP 
+**Tools:** Git, GitHub, Jenkins, Docker, Postman, JMeter  
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 
 - 📧 Email: [priyadarshini.e@jobsmails.com](mailto:priyadarshini.e@jobsmails.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/priyadarshini-edla-381467268/)
+- 🔗 LinkedIn: *(Add your actual profile link here)*  
 
 ---
 
-### 🔍 Looking for
+## 🔍 Looking For
 
 - Full Stack Developer roles  
-- Backend Developer roles (Java/Spring)
-- Frontend Developer roles (Angular and React)
-- Cloud Developer roles (AWS, GCP & Azure)
-- Open to remote or hybrid positions in the US
+- Backend Developer roles (Java / Spring Boot)  
+- Frontend Developer roles (React / Angular)  
+- Cloud Developer roles (AWS, GCP, Azure)  
+- Open to remote or hybrid opportunities across the U.S.
+
+---
+
