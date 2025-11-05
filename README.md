@@ -6,8 +6,8 @@
 
 ## 💼 About Me
 
-- 4+ years of experience in full stack development  
-- Worked with **Delta Airlines**, **Glorium Technologies**, and **Mike Sierra**  
+- 5+ years of experience in full stack development  
+- Worked with **Coupa Software**, **JP Morgan Chase**, and **Mike Sierra**  
 - Skilled in Java, Spring Boot, React.js, REST APIs, AWS, Azure, Docker, and CI/CD  
 - Passionate about clean code, scalable architectures, and intuitive user experiences
 
@@ -15,13 +15,13 @@
 
 ## 💻 Projects
 
-### 🔹 Glorium Technologies – Health Care Web App
+### 🔹 Coupa Software – Health Care Web App
 - Developed a full-stack health care web application  
 - Technologies: React.js, Spring Boot, REST APIs  
 
-### 🔹 Delta Airlines – FlyDelta + Google Wallet Integration
-- Integrated Google Wallet with FlyDelta app for Android  
-- Enabled seamless boarding pass functionality  
+### 🔹 JP Morgan Chase– Chase + Google Wallet Integration
+- Integrated Google Wallet with Chase app for Android  
+- Enabled seamless adding debit card functionality  
 - Tech: Node.js, CI/CD pipelines, API development, cloud-based deployments  
 
 ### 🔹 Mike Sierra – E-Commerce App (Bikry)
@@ -46,8 +46,8 @@
 
 ## 📫 Contact
 
-- 📧 Email: [priyadarshini.e@jobsmails.com](mailto:priyadarshini.e@jobsmails.com)  
-- 🔗 LinkedIn: *(Add your actual profile link here)*  
+- 📧 Email: [priyaedla2@gmail.com](mailto:priyaedla2@gmail.com)  
+- 🔗 LinkedIn: *https://www.linkedin.com/in/priya-g-381467268?utm_source=share_via&utm_content=profile&utm_medium=member_android*  
 
 ---
 
